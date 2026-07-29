@@ -30,13 +30,9 @@
 
 ### 📊 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engomarsany&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engomarsany&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=engomarsany&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/engomarsany)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engomarsany&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/engomarsany)
 ---
 
 ### 🤝 Connect with me:
